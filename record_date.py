@@ -47,3 +47,5 @@ wf.writeframes(b''.join(frames))
 wf.close()
 
 print(f"파일이 저장되었습니다: {WAVE_OUTPUT_FILENAME}")
+
+dfghjkl;
